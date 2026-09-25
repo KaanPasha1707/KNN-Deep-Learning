@@ -3,6 +3,7 @@
 Bu proje, AU-AIR veri setindeki insansız hava aracı (İHA/Drone) görüntüleri üzerinde yer alan nesneleri, makine öğrenmesi ve derin öğrenme tekniklerini harmanlayarak sınıflandırmayı amaçlamaktadır. Görüntülerdeki nesneler önceden eğitilmiş (pre-trained) derin öğrenme modelleri kullanılarak vektör uzayına dönüştürülmüş ve KNN algoritması ile sınıflandırılmıştır.
 
 **AU-AIR Veri Seti Görselleri:** https://drive.google.com/open?id=1pJ3xfKtHiTdysX5G3dxqKTdGESOBYCxJ 
+
 **AU-AIR Veri Seti Etiketleri:** https://drive.google.com/open?id=1boGF0L6olGe_Nu7rd1R8N7YmQErCb0xA
 
 ## 🏗️ Proje Mimarisi ve İş Akışı
